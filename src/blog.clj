@@ -140,19 +140,19 @@
           (->> metadata
                (map (fn [{:keys [introtext created title html-path]}]
                       [:section
+                       [:div {:style "display: flex;"}
+                        [:small
+                         {:class "secondary"
+                          :style "margin-left:auto; padding:.25rem .5rem; white-space:nowrap;"}
+                         (->> created
+                              t/date
+                              (t/format en-formatter))]]
                        [:header {:style "display:flex; gap:1rem;"}
                         [:h2 {:style "margin-bottom:0"}
-                         [:a {:href html-path :class "contrast"} title]]
-                        [:div
-                         [:small
-                          {:class "secondary"
-                           :style "margin-left:auto; padding:.25rem .5rem; white-space:nowrap;"}
-                          (->> created
-                               t/date
-                               (t/format en-formatter))]]]
-                       (h/raw introtext)])))
+                         [:a {:href html-path :class "contrast"} title]]]
+                       (h/raw introtext)
+                       [:hr]])))])
 
-          [:hr]])
         str
         (render-index-html))
     (render-main-pages)))
