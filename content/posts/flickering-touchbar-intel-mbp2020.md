@@ -4,7 +4,13 @@ created: 2026-01-24
 title: Giving a Second Life to my Intel MacBook Pro 2020 (A2251) with a Flickering Touch Bar
 alias: fixing-flickering-touchbar-mbp2020
 date: 24 January 2026
-keywords: MacBook Pro 2020, A2251, flickering Touch Bar fix, disable MacBook Touch Bar, MacBook Pro repair DIY, A2251 Touch Bar disconnect, Intel MacBook Pro 2020
+keywords:
+  - MacBook Pro 2020 A2251
+  - flickering Touch Bar fix
+  - disable MacBook Touch Bar
+  - MacBook Pro repair DIY
+  - A2251 Touch Bar disconnect
+  - Intel MacBook Pro 2020
 description: Don't recycle your Intel MacBook Pro just yet! Follow this DIY guide to fixing the common flickering Touch Bar issue on the A2251 model by disconnecting the hardware
 ---
 # Giving a Second Life to my Intel MacBook Pro 2020 (A2251) with a Flickering Touch Bar
