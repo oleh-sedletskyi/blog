@@ -21,7 +21,7 @@ I initially thought about trading in my laptop while purchasing a new MacBook. I
 
 So, I decided to try and fix it myself. My friends warned me that they had tried to clean their own MacBooks in the past and ended up having to take them to a service center, but since I already had a new laptop and had transferred my data, I was willing to take the risk.
 
-I did some research and found a great [video tutorial](https://www.youtube.com/watch?v=IG8IiWeUDQA) about disconnecting the Touch Bar from a similar model—the MacBook Pro 13-inch M1 (A2338). It looked doable, so I ordered a [set of screwdrivers](https://amzn.eu/d/2EfFR7a), [thin double-sided tape](https://amzn.eu/d/gBq61hA), and [Kapton tape](https://amzn.eu/d/bVPV2ok) (I might have gotten away with regular tape, but I wanted something extra thin specifically designed for electronics) from Amazon. The total cost was around €20.
+I did some research and found a great [video tutorial](https://www.youtube.com/watch?v=IG8IiWeUDQA) about disconnecting the Touch Bar from a similar model – the MacBook Pro 13-inch M1 (A2338). It looked doable, so I ordered a [set of screwdrivers](https://amzn.eu/d/2EfFR7a), [thin double-sided tape](https://amzn.eu/d/gBq61hA), and [Kapton tape](https://amzn.eu/d/bVPV2ok) (I might have gotten away with regular tape, but I wanted something extra thin specifically designed for electronics) from Amazon. The total cost was around €20.
 
 I don't want to repeat every step from the video, so I’ll only mention the parts that were different for my model or that I felt were worth highlighting.
 
