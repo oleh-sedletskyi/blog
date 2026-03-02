@@ -19,6 +19,12 @@ It appears that a flickering Touch Bar is a common issue with MacBooks. I didn�
 
 I initially thought about trading in my laptop while purchasing a new MacBook. I was offered €300 (when I hadn't mentioned the flickering Touch Bar) and €0 (essentially just recycling) once I mentioned the Touch Bar wasn't functioning properly. This felt unreasonable, as I have a solid laptop with great specs: an Intel i7, 32GB of RAM, a 1TB SSD, and a 13-inch Retina display. I couldn't buy a replacement with those specs for €300.
 
+<figure>
+    <img src="../images/mbp-2011-i7-model.jpeg"
+         alt="Old MacBook Pro 2011 in the local store for €449">
+    <figcaption>Here are my options in the local store for €449</figcaption>
+</figure>
+
 So, I decided to try and fix it myself. My friends warned me that they had tried to clean their own MacBooks in the past and ended up having to take them to a service center, but since I already had a new laptop and had transferred my data, I was willing to take the risk.
 
 I did some research and found a great [video tutorial](https://www.youtube.com/watch?v=IG8IiWeUDQA) about disconnecting the Touch Bar from a similar model – the MacBook Pro 13-inch M1 (A2338). It looked doable, so I ordered a [set of screwdrivers](https://amzn.eu/d/2EfFR7a), [thin double-sided tape](https://amzn.eu/d/gBq61hA), and [Kapton tape](https://amzn.eu/d/bVPV2ok) (I might have gotten away with regular tape, but I wanted something extra thin specifically designed for electronics) from Amazon. The total cost was around €20.
